@@ -22,6 +22,7 @@ Features
   * Multi-select list
   * Radio buttons (Displayed as drop-down selection to save space)
   * Date
+  * Link
 
 Technical Requirements
 ----------------------
