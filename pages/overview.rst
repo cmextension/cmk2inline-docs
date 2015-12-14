@@ -24,6 +24,8 @@ Features
   * Date
   * Link
 
+* Integrate with `Additional Categories for K2 plugin <http://www.netpin.gr/extensions/item/1-k2-additonal-categories>`_
+
 Technical Requirements
 ----------------------
 

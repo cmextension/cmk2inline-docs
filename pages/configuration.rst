@@ -11,3 +11,7 @@ Text's Max Length option in Layout tab gives you ability to set how long the tex
 .. image:: ../images/configuration_notification.jpg
 
 There are 2 options that you can configure for notification: the position of notification pop-up and how many seconds it appears on the page.
+
+.. image:: ../images/configuration_integrations.jpg
+
+Integrations tab is where the options for the integrations with other Joomla! extensions are placed. At the present CMK2Inline only integrate with Additional Categories for K2 plugin.

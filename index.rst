@@ -17,6 +17,7 @@ Contents:
    pages/override
    pages/items
    pages/configuration
+   pages/additionalcategories
    pages/update
    pages/uninstallation
    pages/translation
